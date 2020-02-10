@@ -598,12 +598,14 @@ footer {
   input.input100 {
 	height: 40px;
 	padding: 0 20px 0 58px;
+	border:none;
   }
   
   
   textarea.input100 {
 	min-height: 150px;
 	padding: 19px 20px 0 23px;
+	border:none;
   }
   
   
